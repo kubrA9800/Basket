@@ -1,0 +1,46 @@
+
+
+.basket i{
+    margin-top: 16px;
+    margin-left: 14px;
+    font-size: 30px;
+    cursor: pointer;
+    color: blueviolet;
+}
+
+.count{
+    position: relative;
+    width: 22px;
+    height: 22px;
+    background-color: magenta;
+    border-radius: 50%;
+    top: 5px;
+    right: 1px;
+}
+.basket span{
+    position: absolute;
+    top: -1px;
+    right: 6px;
+    color: white;
+}
+
+img{
+    width: 150px;
+    height: 100px;
+}
+
+button{
+    color:white;
+    padding: 10px;
+    border: none;
+    background-color: red;
+    border-radius: 30px;
+}
+
+tbody{
+    vertical-align:0 !important;
+}
+
+tr{
+    text-align: center;
+}
